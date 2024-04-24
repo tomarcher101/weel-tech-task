@@ -1,9 +1,10 @@
 ## Installation
 
 1) Clone this repo to your machine
-2) Run `npm install` to install the dependencies
-3) Run `npm start` to run the app in development mode
-4) Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2) Make sure nvm is installed and run `nvm use` (The app requires node 16)
+3) Run `npm install` to install the dependencies
+4) Run `npm start` to run the app in development mode
+5) Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Objective
 Finance managers use Weel to stay on top of their team's expenses. Your challenge is to implement Weel's new transaction table to make it easy for finance managers to see what’s happening at a simple glance.
